@@ -1,0 +1,94 @@
+/* Apps for Humanity */
+
+body {
+	margin: 0;
+	padding: 1em;
+	background-color: #00dc00;
+}
+	
+
+p {
+  color: white;
+  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  font-weight: 200;
+	 font-size: 1.25em;
+}
+
+.body {
+	text-align: center;
+	display: block;
+	margin-top: 10%;
+}
+
+
+p.name {
+  color: white;
+  font-weight: 100;
+ 	font-size: 2.5em;
+	margin-top: 33%;
+	margin: 0;
+	padding: 0;
+}
+
+p.date {
+  color: white;
+  font-weight: 100;
+ 	font-size: 2em;
+	margin: 1em 0 .5em;
+	padding: 0;
+}
+
+p.venue {
+  color: white;
+  font-weight: 100;
+ 	font-size: 1.5em;
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+p.updates {
+  color: white;
+  font-weight: 300;
+ 	font-size: 1em;
+	margin: 1em 0;
+	padding: 0;
+}
+
+ 
+#logo {
+	width: 260px;
+	height: auto;
+	margin: 0 auto;
+	padding: 1em;
+}
+
+
+.header {
+	width: 100%;
+	text-align: center;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-weight: 300;
+	padding: 1em;
+}
+
+
+.header .icon-links {
+	float: right;
+	padding-right: 2em;
+}
+
+.header .icon-links a {
+	padding: .25em;
+	display: inline-block;
+	color: white;
+}
+
+#updated {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	color: white;
+	padding: .75em;
+	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
