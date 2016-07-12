@@ -3,7 +3,7 @@ http://uniteforhumanity.com/
  
 <h2>Unite for Humanity</h2>
 
-Welcome to the repo for Unite for Humanity, hosted at the United Nations, July 16-17, 2016. This document contains materials and logistics for orienting participants to our 2 days of prototyping, creating, and sharing new approaches to solving the UN’s Sustainable Development Goals.
+Welcome to the repo for Unite for Humanity, hosted at the United Nations, July 16-17, 2016. This document contains materials and logistics for orienting participants to our 2 days of prototyping, creating, and sharing new approaches to solving the UN’s <a href="https://sustainabledevelopment.un.org/?menu=1300">Sustainable Development Goals</a>.
 
 <h3>Projects</h3>
 
