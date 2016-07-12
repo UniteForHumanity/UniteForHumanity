@@ -57,7 +57,28 @@ In order to foster a productive and welcoming environment for this hackathon, we
 
 <h3><a name="challenges"></a>Challenges</h3>
 
-Unite for Humanity is a two-day hackathon to make audio accessible for the public good. 
+Unite for Humanity is a two-day hackathon to make audio accessible for the public good.
+
+DOable (climate change)
+Presenter: Sonia Hamel from DOable
+http://doable.org/
+
+Civic Graph (http://civicgraph.io)
+Presenter Microsoft team (did not present)
+
+Counter Terrorism Messaging
+Humana Khan, Execurtive Director of Muflefun.org
+Mubin Shaikh, Counterterrorism Expert
+
+Stem Volunteering Platform
+Presenter TBD, member from CSNYC or ScriptEd
+May present later this week
+
+Crowdsourcing Platform
+Presenter: Radia Funna, OITC
+Example site: https://unite.un.org/ideas/
+
+Additional Presentations (ways organizations are addressing these challenges now)
 
 These are big challenges to tackle so we’ve borrowed some prompts from New York Public Library’s hack events to stimulate conversations and project ideas!
 
