@@ -7,7 +7,7 @@ Welcome to the repo for Unite for Humanity, hosted at the United Nations, July 1
 
 <h3>Projects</h3>
 
-The organizing team is grateful for the group of talented and engaged community members who brought together a diverse and impressive set of skills to make this weekend a success. To read more about the projects and prototypes conceived during the event, please visit our Projects page.
+The organizing team is grateful for the group of talented and engaged community members who brought together a diverse and impressive set of skills to make this weekend a success. To read more about the projects and prototypes conceived during the event, please visit our Projects page after July 17.
 
 <h3>Table of Contents</h3>
 
@@ -25,11 +25,11 @@ The organizing team is grateful for the group of talented and engaged community 
 
 <h3><a name="logistics"></a>Logistics</h3>
 
-The 2016 Unite for Humanity Hackathon is being held in the Conference Room 9 in the Conference Building of the United Nations. Conference Room 9 is located on the lower level as you enter the building from the Visitor Entrance on UN Plaza. This entrance is wheelchair accessible. Volunteers from the Open Camps will be at the visitor entrance on First Avenue and 46th Street with preprinted visitor passes. Please follow their directions and the directions of security staff for entering the facility. You will be required to pass through a security station with a bag scanner and metal detection, so be sure to allow extra time to get through security.
+The 2016 Unite for Humanity Hackathon is being held in the Conference Room 9 in the Conference Building of the United Nations. Conference Room 9 is located on the lower level as you enter the building from the Visitor Entrance on UN Plaza. This entrance is wheelchair accessible. Volunteers from the Open Camps will be at the visitor entrance on First Avenue and 46th Street with preprinted visitor passes. Please follow their directions and the directions of security staff for entering the facility. You will be required to pass through a security station with a bag scanner and metal detector, so be sure to allow extra time to get through security.
 
-The main entrance is across the plaza from the visitor entrance. Upon entering the building, you may use the down stairway directly in front of the right entrance doors. For wheelchair access, use the elevators on the far end of the hall and to the end of the hall on the left. Security personnel can help you find the elevators. We plan to have directional signs, but there are floor plans available near the elevators and throughout the conference center. Conference Room 9 is the farthest room on the floor from the main entrance.
+The main entrance is across the plaza from the visitor entrance. Upon entering the building, you may use the down stairway directly in front of the right entrance doors. Enter the Conference center at the far left. You may be required to show your pass to security.  For wheelchair access, use the elevators located on the far end of the hall and to the end of the next hall on the left. Security personnel can help you find the elevators. We plan to have directional signs, and floor plans are available near the elevators and throughout the conference center. Conference Room 9 is the farthest room on the floor from the main entrance.
 
-At the start of both Saturday and Sunday, event volunteers will be stationed outside the entrance of the forum and available for questions. Throughout the event, staff and volunteers will be available to attendees.
+At the start of both Saturday and Sunday, event volunteers will be stationed outside the entrance of the conference center and will be available for questions. Throughout the event, staff and volunteers will be available to attendees.
 
 <h3><a name="schedule"></a>Schedule (tentative)</h3>
 
