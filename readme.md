@@ -1,15 +1,15 @@
-Repo for Open Camps Unite for Humanity Hackathon 2016
+Repo for Open Camps Unite for Humanity Hackathon 2016<br>
 http://uniteforhumanity.com/
  
-<b>Unite for Humanity</b></p>
+<h2>Unite for Humanity</h2>
 
 Welcome to the repo for Unite for Humanity, hosted at the United Nations, July 16-17, 2016. This document contains materials and logistics for orienting participants to our 2 days of prototyping, creating, and sharing new approaches to solving the UN’s Sustainable Development Goals.
 
-<b>Projects</b></p>
+<h3>Projects</h3>
 
 The organizing team is grateful for the group of talented and engaged community members who brought together a diverse and impressive set of skills to make this weekend a success. To read more about the projects and prototypes conceived during the event, please visit our Projects page.
 
-<b>Table of Contents</b></p>
+<h3>Table of Contents</h3>
 
 <p><a href="#logistics">Logistics</a><br>
 <a href="#schedule">Schedule</a><br>
@@ -23,7 +23,7 @@ The organizing team is grateful for the group of talented and engaged community 
 <a href="#documentation">Documentation Policy</a></p>
 
 
-<p><a name="logistics"></a><b>Logistics</b></p>
+<h3><a name="logistics"></a>Logistics</h3>
 
 The 2016 Unite for Humanity Hackathon is being held in the Conference Room 9 in the Conference Building of the United Nations. Conference Room 9 is located on the lower level as you enter the building from the Visitor Entrance on UN Plaza. This entrance is wheelchair accessible. Volunteers from the Open Camps will be at the visitor entrance on First Avenue and 46th Street with preprinted visitor passes. Please follow their directions and the directions of security staff for entering the facility. You will be required to pass through a security station with a bag scanner and metal detection, so be sure to allow extra time to get through security.
 
@@ -31,7 +31,7 @@ The main entrance is across the plaza from the visitor entrance. Upon entering t
 
 At the start of both Saturday and Sunday, event volunteers will be stationed outside the entrance of the forum and available for questions. Throughout the event, staff and volunteers will be available to attendees.
 
-<p><a name="schedule"></a><b>Schedule (tentative)</b></p>
+<h3><a name="schedule"></a><b>Schedule (tentative)</h3>
 
 Saturday, July 16
 6:00 PM    Welcome and Instructions
@@ -49,11 +49,11 @@ Sunday, July 17th
 5:30 PM    Announcement of Winner and prizes
 5:30 PM    Hackathon ends
 
-<p><a name="conduct"></a><b>Open Camps Code of Conduct</b></p>
+<h3><a name="conduct"></a><b>Open Camps Code of Conduct</h3>
 
 In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the Open Camps code of conduct for the event.
 
-<p><a name="challenges"></a><b>Challenges</b></p>
+<h3><a name="challenges"></a><b>Challenges</h3>
 
 Unite for Humanity is a two-day hackathon to make audio accessible for the public good. 
 
@@ -68,11 +68,11 @@ Engage: How can we engage diverse and disperse communities in solving problems?
 Access: How can we make available resources more usable for people with disabilities?
 
 
-<p><a name="judging"></a><b>Judging Criteria and Prizes</b></p>
+<h3><a name="judging"></a><b>Judging Criteria and Prizes</h3>
 
 [Amine is outlining these.]
 
-<p><a name="materials"></a><b>Materials and Resources</b></p>
+<h3><a name="materials"></a><b>Materials and Resources</h3>
 
 [Can we preload some tools and data? Maybe leaders from some of the other camps can suggest tools?]
 
@@ -83,13 +83,13 @@ Accessibility
 WebAIM: Web Accessibility in Mind - Website with a number of excellent resources and services around web accessibility many of which are highlighted in the Resources Page.
 
 
-<p><a name="slack"></a><b>Slack & Social Media</b></p>
+<h3><a name="slack"></a><b>Slack & Social Media</h3>
 
 We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: login?.
 
 The hashtag for our event is #uniteforhumanity. Please use it to tag your tweets, Instagrams & other posts related to the event!
 
-<p><a name="github"></a><b>New to Git or Github?</b></p>
+<h3><a name="github"></a><b>New to Git or Github?</h3>
 
 Git is a file control system that lets people share and contribute to projects (called “repositories”), most of them software projects (but some people use it for other things, like taco recipes). Github (the website you are on now) is a company that allows anyone to host public Git projects for free.
 
@@ -100,23 +100,20 @@ Event volunteers will be on hand during the event to help out.
 IMPORTANT: All code you submit in the Unite for Humanity Hackathon should go to repositories you create in the Unite for Humanity Organization. Make sure your repositories are public.
 
 
-<p><a name="sharing"></a><b>Sharing Your Project</b></p>
+<h3><a name="sharing"></a><b>Sharing Your Project</h3>
 
 Every team will present their project at the end of Day 2. As described above, every project will have its own repository.
 
 Make sure your project includes a README: select “Initialize this repository with a README” when creating the repository and then edit the file or just add a README.md file later (it is just a regular text file with the .md file extension instead of .txt).
 
-
 Add this information to your README: project name, team members, project description, and links to all external assets (those outside of the repository). Make sure to take advantage of Github's text formatting toolbar.
-
 
 If your project is an app (web or otherwise), make sure to include screenshots.
 Depending on your type of project you may add additional files so you can present and share your project. Ask any of the volunteers if you have any questions on how to use Github.
 
-
 During the final shareout you will use this repository and README as launchpad for your presentation. All projects will be presented from the same computer which will be connected to the projector so make sure to have all the necessary links in there!
 
-<p><a name="documentation"></a><b>Documentation Policy</b></p>
+<h3><a name="documentation"></a><b>Documentation Policy</h3>
 
 Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed.
 
