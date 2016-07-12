@@ -31,7 +31,7 @@ The main entrance is across the plaza from the visitor entrance. Upon entering t
 
 At the start of both Saturday and Sunday, event volunteers will be stationed outside the entrance of the forum and available for questions. Throughout the event, staff and volunteers will be available to attendees.
 
-<h3><a name="schedule"></a><b>Schedule (tentative)</h3>
+<h3><a name="schedule"></a>Schedule (tentative)</h3>
 
 Saturday, July 16
 6:00 PM    Welcome and Instructions
@@ -49,11 +49,11 @@ Sunday, July 17th
 5:30 PM    Announcement of Winner and prizes
 5:30 PM    Hackathon ends
 
-<h3><a name="conduct"></a><b>Open Camps Code of Conduct</h3>
+<h3><a name="conduct"></a>Open Camps Code of Conduct</h3>
 
 In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the Open Camps code of conduct for the event.
 
-<h3><a name="challenges"></a><b>Challenges</h3>
+<h3><a name="challenges"></a>Challenges</h3>
 
 Unite for Humanity is a two-day hackathon to make audio accessible for the public good. 
 
@@ -68,7 +68,7 @@ Engage: How can we engage diverse and disperse communities in solving problems?
 Access: How can we make available resources more usable for people with disabilities?
 
 
-<h3><a name="judging"></a><b>Judging Criteria and Prizes</h3>
+<h3><a name="judging"></a>Judging Criteria and Prizes</h3>
 
 [Amine is outlining these.]
 
@@ -83,13 +83,13 @@ Accessibility
 WebAIM: Web Accessibility in Mind - Website with a number of excellent resources and services around web accessibility many of which are highlighted in the Resources Page.
 
 
-<h3><a name="slack"></a><b>Slack & Social Media</h3>
+<h3><a name="slack"></a>Slack & Social Media</h3>
 
 We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: login?.
 
 The hashtag for our event is #uniteforhumanity. Please use it to tag your tweets, Instagrams & other posts related to the event!
 
-<h3><a name="github"></a><b>New to Git or Github?</h3>
+<h3><a name="github"></a>New to Git or Github?</h3>
 
 Git is a file control system that lets people share and contribute to projects (called “repositories”), most of them software projects (but some people use it for other things, like taco recipes). Github (the website you are on now) is a company that allows anyone to host public Git projects for free.
 
@@ -100,7 +100,7 @@ Event volunteers will be on hand during the event to help out.
 IMPORTANT: All code you submit in the Unite for Humanity Hackathon should go to repositories you create in the Unite for Humanity Organization. Make sure your repositories are public.
 
 
-<h3><a name="sharing"></a><b>Sharing Your Project</h3>
+<h3><a name="sharing"></a>Sharing Your Project</h3>
 
 Every team will present their project at the end of Day 2. As described above, every project will have its own repository.
 
@@ -113,7 +113,7 @@ Depending on your type of project you may add additional files so you can presen
 
 During the final shareout you will use this repository and README as launchpad for your presentation. All projects will be presented from the same computer which will be connected to the projector so make sure to have all the necessary links in there!
 
-<h3><a name="documentation"></a><b>Documentation Policy</h3>
+<h3><a name="documentation"></a>Documentation Policy</h3>
 
 Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed.
 
