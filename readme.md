@@ -64,21 +64,20 @@ Presenter: Sonia Hamel from DOable
 http://doable.org/
 
 Civic Graph (http://civicgraph.io)
-Presenter Microsoft team (did not present)
+Presenter Microsoft team
 
 Counter Terrorism Messaging
 Humana Khan, Execurtive Director of Muflefun.org
 Mubin Shaikh, Counterterrorism Expert
 
 Stem Volunteering Platform
-Presenter TBD, member from CSNYC or ScriptEd
-May present later this week
+Presenter from CSNYC or ScriptEd
 
 Crowdsourcing Platform
 Presenter: Radia Funna, OITC
 Example site: https://unite.un.org/ideas/
 
-Additional Presentations (ways organizations are addressing these challenges now)
+
 
 These are big challenges to tackle so we’ve borrowed some prompts from New York Public Library’s hack events to stimulate conversations and project ideas!
 
