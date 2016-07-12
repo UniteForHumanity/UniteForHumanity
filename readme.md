@@ -72,7 +72,7 @@ Access: How can we make available resources more usable for people with disabili
 
 [Amine is outlining these.]
 
-<h3><a name="materials"></a><b>Materials and Resources</h3>
+<h3><a name="materials"></a>Materials and Resources</h3>
 
 [Can we preload some tools and data? Maybe leaders from some of the other camps can suggest tools?]
 
