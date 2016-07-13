@@ -39,8 +39,8 @@ Saturday, July 16<br>
 6:00 PM    Welcome and Instructions<br>
 6:30 PM    Recap of Challenges and Team Pitches<br>
 7:00 PM    Group working session<br>
-??:?? PM    Dinner provided<br>
-All Night    Group working session
+
+All Night    Group working session, dinner will be provided
 
 
 Sunday, July 17th<br>
