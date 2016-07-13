@@ -19,7 +19,7 @@ A kickoff event was held Sunday July 10 with presentations on challenges we will
 <a href="#challenges">Challenges</a><br>
 <a href="#judging">Judging Criteria and Prizes</a><br>
 <a href="#materials">Materials and Resources</a><br>
-<a href="#slack">Slack & Social Media</a><br>
+<a href="#chat">Chat & Social Media</a><br>
 <a href="#github">New to Git or Github?</a><br>
 <a href="#sharing">Sharing Your Project</a><br>
 <a href="#documentation">Documentation Policy</a></p>
@@ -80,7 +80,7 @@ Example site: https://unite.un.org/ideas/
 
 1. Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention.  Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
 
-2. Unite Ideas  ( https://unite.un.org/ideas/ ) is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
+2. Unite Ideas  (<a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a> ) is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
 
 3. More challenges that are atriculated? 
 
@@ -127,9 +127,9 @@ Accessibility
 WebAIM: Web Accessibility in Mind - Website with a number of excellent resources and services around web accessibility many of which are highlighted in the Resources Page.
 
 
-<h3><a name="slack"></a>Slack & Social Media</h3>
+<h3><a name="chat"></a>Chat & Social Media</h3>
 
-We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: login?.
+We set up an instance of Slack for use during the event and immediately hit invitation restrictions. We are now using Gitter/ <a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a>. For those of you not familiar with Gitter, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Gitter, just log in with your Github or Twitter credentials.
 
 The hashtag for our event is #uniteforhumanity. Please use it to tag your tweets, Instagrams & other posts related to the event!
 
