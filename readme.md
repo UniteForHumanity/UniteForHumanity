@@ -59,6 +59,14 @@ In order to foster a productive and welcoming environment for this hackathon, we
 
 Unite for Humanity is a two-day hackathon to make audio accessible for the public good.
 
+Crowdsourcing Platform<br>
+Presenter: Radia Funna, OITC<br>
+Example site: https://unite.un.org/ideas/
+
+Counter Terrorism Messaging<br>
+Humana Khan, Execurtive Director of Muflefun.org<br>
+Mubin Shaikh, Counterterrorism Expert
+
 DOable (climate change)<br>
 Presenter: Sonia Hamel from DOable<br>
 http://doable.org/
@@ -66,16 +74,8 @@ http://doable.org/
 Civic Graph (http://civicgraph.io)<br>
 Presenter Microsoft team
 
-Counter Terrorism Messaging<br>
-Humana Khan, Execurtive Director of Muflefun.org<br>
-Mubin Shaikh, Counterterrorism Expert
-
 Stem Volunteering Platform<br>
 Presenter from CSNYC or ScriptEd
-
-Crowdsourcing Platform<br>
-Presenter: Radia Funna, OITC<br>
-Example site: https://unite.un.org/ideas/
 
 
 1. Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention.  Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
@@ -129,7 +129,7 @@ WebAIM: Web Accessibility in Mind - Website with a number of excellent resources
 
 <h3><a name="chat"></a>Chat & Social Media</h3>
 
-We set up an instance of Slack for use during the event and immediately hit invitation restrictions. We are now using Gitter/ <a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a>. For those of you not familiar with Gitter, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Gitter, just log in with your Github or Twitter credentials.
+We set up an instance of Slack for use during the event and immediately hit invitation restrictions. We are now using Gitter: <<a href="https://gitter.im/aminethedream/UniteForHumanity">https://gitter.im/aminethedream/UniteForHumanity</a>. For those of you not familiar with Gitter, it’s a chatroom like Slack that allows group and 1-on-1 conversations. To use the event Gitter, just log in with your Github or Twitter credentials.
 
 The hashtag for our event is #uniteforhumanity. Please use it to tag your tweets, Instagrams & other posts related to the event!
 
