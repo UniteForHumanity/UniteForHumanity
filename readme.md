@@ -1,7 +1,7 @@
 Repo for Open Camps Unite for Humanity Hackathon 2016<br>
 http://uniteforhumanity.com/
  
-<h2>Unite for Humanity</h2>
+<h2>Unite for Humanity Hackahon</h2>
 
 Welcome to the repo for Unite for Humanity, hosted at the United Nations, July 16-17, 2016. This document contains materials and logistics for orienting participants to our 2 days of prototyping, creating, and sharing new approaches to solving the UN’s <a href="https://sustainabledevelopment.un.org/?menu=1300">Sustainable Development Goals</a>.
 
@@ -57,21 +57,20 @@ In order to foster a productive and welcoming environment for this hackathon, we
 
 <h3><a name="challenges"></a>Challenges</h3>
 
-Unite for Humanity is a two-day hackathon focused on the use of open source technologies to address humanitarian issues and pursue the UN's GlobalGoals. The Unite for Humanity Hackathon strives to create solutions to some of our worlds most pressing problems.
+Unite for Humanity is a two-day hackathon focused on the use of open source technologies to address humanitarian issues and pursue the UN's <a href="http://globalgoals.org/">GlobalGoals</a>. The Unite for Humanity Hackathon strives to create solutions to some of our worlds most pressing problems.
 
 Crowdsourcing Platform<br>
 Presenter: Radia Funna, OITC<br>
-Example site: https://unite.un.org/ideas/
-
-Unite Ideas  (<a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a> ) is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
-
+Example site: <a href=>https://unite.un.org/ideas/">https://unite.un.org/ideas/</a><br>
+Unite Ideas is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
 
 Counter Terrorism Messaging<br>
-Humana Khan, Execurtive Director of Muflefun.org<br>
+Humana Khan, Executive Director of Muflefun.org<br>
 Mubin Shaikh, Counterterrorism Expert
+Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention. Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
 
-Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention.  Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
 
+Additional challenges from the following groups may be presented:
 
 DOable (climate change)<br>
 Presenter: Sonia Hamel from DOable<br>
