@@ -59,34 +59,33 @@ In order to foster a productive and welcoming environment for this hackathon, we
 
 Unite for Humanity is a two-day hackathon to make audio accessible for the public good.
 
-DOable (climate change)
-Presenter: Sonia Hamel from DOable
+DOable (climate change)<br>
+Presenter: Sonia Hamel from DOable<br>
 http://doable.org/
 
-Civic Graph (http://civicgraph.io)
+Civic Graph (http://civicgraph.io)<br>
 Presenter Microsoft team
 
-Counter Terrorism Messaging
-Humana Khan, Execurtive Director of Muflefun.org
+Counter Terrorism Messaging<br>
+Humana Khan, Execurtive Director of Muflefun.org<br>
 Mubin Shaikh, Counterterrorism Expert
 
-Stem Volunteering Platform
+Stem Volunteering Platform<br>
 Presenter from CSNYC or ScriptEd
 
-Crowdsourcing Platform
-Presenter: Radia Funna, OITC
+Crowdsourcing Platform<br>
+Presenter: Radia Funna, OITC<br>
 Example site: https://unite.un.org/ideas/
-
 
 
 These are big challenges to tackle so we’ve borrowed some prompts from New York Public Library’s hack events to stimulate conversations and project ideas!
 
-Discover: What new experiences can we make around UN Sustainable Development Goals?
-Find: How can we make it easier to search for information related to the SDGs?
-Listen: What are some meaningful ways we can augment the experience of communicating needs within aff cited communities?
-Share: How can we make it easier to share information and resources?
-Learn: What can we learn from the UN SDG? How can what we build be used in an educational context?
-Engage: How can we engage diverse and disperse communities in solving problems?
+Discover: What new experiences can we make around UN Sustainable Development Goals?<br>
+Find: How can we make it easier to search for information related to the SDGs?<br>
+Listen: What are some meaningful ways we can augment the experience of communicating needs within affected communities?<br>
+Share: How can we make it easier to share information and resources?<br>
+Learn: What can we learn from the UN SDG? How can what we build be used in an educational context?<br>
+Engage: How can we engage diverse and disperse communities in solving problems?<br>
 Access: How can we make available resources more usable for people with disabilities?
 
 
