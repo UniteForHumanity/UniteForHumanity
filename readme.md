@@ -27,7 +27,7 @@ A kickoff event was held Sunday July 10 with presentations on challenges we will
 
 <h3><a name="logistics"></a>Logistics</h3>
 
-The 2016 Unite for Humanity Hackathon is being held in the Conference Room 9 in the Conference Building of the United Nations. Conference Room 9 is located on the lower level as you enter the building from the Visitor Entrance on UN Plaza. This entrance is wheelchair accessible. Volunteers from the Open Camps will be at the visitor entrance on First Avenue and 46th Street with preprinted visitor passes. Please follow their directions and the directions of security staff for entering the facility. You will be required to pass through a security station with a bag scanner and metal detector, so be sure to allow extra time to get through security.
+The 2016 Unite for Humanity Hackathon is being held in the Conference Room 9 in the Conference Building of the United Nations. Conference Room 9 is located on the lower level as you enter the building from the Visitor Entrance on UN Plaza. This entrance is wheelchair accessible. Volunteers from the Open Camps will be at the visitor entrance on First Avenue and 46th Street with preprinted visitor passes. Please follow their directions and the directions of security stahttp://opencamps.org/code-of-conduct.html">ff for entering the facility. You will be required to pass through a security station with a bag scanner and metal detector, so be sure to allow extra time to get through security.
 
 The main entrance is across the plaza from the visitor entrance. Upon entering the building, you may use the down stairway directly in front of the right entrance doors. Enter the Conference center at the far left. You may be required to show your pass to security.  For wheelchair access, use the elevators located on the far end of the hall and to the end of the next hall on the left. Security personnel can help you find the elevators. We plan to have directional signs, and floor plans are available near the elevators and throughout the conference center. Conference Room 9 is the farthest room on the floor from the main entrance.
 
@@ -35,25 +35,25 @@ At the start of both Saturday and Sunday, event volunteers will be stationed out
 
 <h3><a name="schedule"></a>Schedule (tentative)</h3>
 
-Saturday, July 16
-6:00 PM    Welcome and Instructions
-6:30 PM    Recap of Challenges and Team Pitches
-7:00 PM    Group working session
-??:?? PM    Dinner provided
+Saturday, July 16<br>
+6:00 PM    Welcome and Instructions<br>
+6:30 PM    Recap of Challenges and Team Pitches<br>
+7:00 PM    Group working session<br>
+??:?? PM    Dinner provided<br>
 All Night    Group working session
 
 
-Sunday, July 17th
-10:00 AM    Day 2 begins, coffee, group working session
-??:00 PM    Lunch provided
-2:00 PM    Final group working session, prepare for shareout
-4:30 PM    Final shareout
-5:30 PM    Announcement of Winner and prizes
-5:30 PM    Hackathon ends
+Sunday, July 17th<br>
+10:00 AM    Day 2 begins, coffee, group working session<br>
+??:00 PM    Lunch provided<br>
+2:00 PM    Final group working session, prepare for shareout<br>
+4:30 PM    Final shareout<br>
+5:30 PM    Announcement of Winner and prizes<br>
+6:00 PM    Hackathon ends
 
 <h3><a name="conduct"></a>Open Camps Code of Conduct</h3>
 
-In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the Open Camps code of conduct for the event.
+In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the <a href="Open Camps Code of Conduct</a> for the event.
 
 <h3><a name="challenges"></a>Challenges</h3>
 
@@ -78,6 +78,13 @@ Presenter: Radia Funna, OITC<br>
 Example site: https://unite.un.org/ideas/
 
 
+1. Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention.  Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
+
+2. Unite Ideas  ( https://unite.un.org/ideas/ ) is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
+
+3. More challenges that are atriculated? 
+
+
 These are big challenges to tackle so we’ve borrowed some prompts from New York Public Library’s hack events to stimulate conversations and project ideas!
 
 Discover: What new experiences can we make around UN Sustainable Development Goals?<br>
@@ -91,7 +98,23 @@ Access: How can we make available resources more usable for people with disabili
 
 <h3><a name="judging"></a>Judging Criteria and Prizes</h3>
 
-[Amine is outlining these.]
+How creative is the solution? How innovative is the solution?
+How easy is it for a user to understand and navigate it?  
+How much of it works? How usable is it? 
+
+Points
+
+Up to 5 points will be awarded for each:  
+
+  Idea: creativity of solution and implementation
+
+  Design: Ease of use and interaction
+
+  functionality: how much of it actually works Or close to it? 
+
+Up to 10 points will be awarded for: 
+
+  Potential: How likely is it for this solution to be  used. 
 
 <h3><a name="materials"></a>Materials and Resources</h3>
 
