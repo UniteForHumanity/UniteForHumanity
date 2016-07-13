@@ -57,15 +57,21 @@ In order to foster a productive and welcoming environment for this hackathon, we
 
 <h3><a name="challenges"></a>Challenges</h3>
 
-Unite for Humanity is a two-day hackathon to make audio accessible for the public good.
+Unite for Humanity is a two-day hackathon focused on the use of open source technologies to address humanitarian issues and pursue the UN's GlobalGoals. The Unite for Humanity Hackathon strives to create solutions to some of our worlds most pressing problems.
 
 Crowdsourcing Platform<br>
 Presenter: Radia Funna, OITC<br>
 Example site: https://unite.un.org/ideas/
 
+Unite Ideas  (<a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a> ) is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
+
+
 Counter Terrorism Messaging<br>
 Humana Khan, Execurtive Director of Muflefun.org<br>
 Mubin Shaikh, Counterterrorism Expert
+
+Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention.  Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
+
 
 DOable (climate change)<br>
 Presenter: Sonia Hamel from DOable<br>
@@ -78,12 +84,7 @@ Stem Volunteering Platform<br>
 Presenter from CSNYC or ScriptEd
 
 
-1. Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention.  Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
-
-2. Unite Ideas  (<a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a> ) is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
-
-3. More challenges that are atriculated? 
-
+<b>Prompts</b>
 
 These are big challenges to tackle so we’ve borrowed some prompts from New York Public Library’s hack events to stimulate conversations and project ideas!
 
@@ -98,11 +99,11 @@ Access: How can we make available resources more usable for people with disabili
 
 <h3><a name="judging"></a>Judging Criteria and Prizes</h3>
 
-How creative is the solution? How innovative is the solution?
-How easy is it for a user to understand and navigate it?  
+How creative is the solution? How innovative is the solution?<br>
+How easy is it for a user to understand and navigate it?<br>
 How much of it works? How usable is it? 
 
-Points
+<b>Points</b>
 
 Up to 5 points will be awarded for each:  
 
