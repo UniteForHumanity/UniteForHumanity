@@ -127,9 +127,8 @@ Categories:
 <li>Programming Tools</li>
 <li>Datasets (OITC offered to provide data on request)</li>
 <li>Accessibility</li>
+<ul><li><a href="http://.222.webaim.org">WebAIM</a>: Web Accessibility in Mind - Website with a number of excellent resources and services around web accessibility</li></ul>
 </ul>
-
-WebAIM: Web Accessibility in Mind - Website with a number of excellent resources and services around web accessibility
 
 
 <h3><a name="chat"></a>Chat & Social Media</h3>
