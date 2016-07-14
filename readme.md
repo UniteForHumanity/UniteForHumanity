@@ -61,7 +61,7 @@ Unite for Humanity is a two-day hackathon focused on the use of open source tech
 
 Crowdsourcing Platform<br>
 Presenter: Radia Funna, OITC<br>
-Example site: <a href=>https://unite.un.org/ideas/">https://unite.un.org/ideas/</a><br>
+Example site: <a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a><br>
 Unite Ideas is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
 
 Counter Terrorism Messaging<br>
@@ -81,7 +81,7 @@ Presenter Microsoft team
 Stem Volunteering Platform<br>
 Presenter from CSNYC or ScriptEd
 
-Our Kickoff attendees suggested ta number of potential projects to address these challenges. We have compiled a list of suggestions at <a href"https://public.etherpad-mozilla.org/p/Uniteforhumanity">https://public.etherpad-mozilla.org/p/Uniteforhumanity</a>. If any of these projects appeal to you, look for the team leader who suggested them.
+Our July 10 Kickoff attendees suggested a number of potential projects to address these challenges. We have compiled a list of suggestions at <a href"https://public.etherpad-mozilla.org/p/Uniteforhumanity">https://public.etherpad-mozilla.org/p/Uniteforhumanity</a>. If any of these projects appeal to you, look for the team leader who suggested them.
 
 <b>Prompts</b>
 
