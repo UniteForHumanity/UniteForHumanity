@@ -118,13 +118,18 @@ Up to 10 points will be awarded for:
 
 <h3><a name="materials"></a>Materials and Resources</h3>
 
-[Can we preload some tools and data? Maybe leaders from some of the other camps can suggest tools?]
+We are gathering a list of tools and data we can use during the Hackathon. If you know of any good resources, or learned some during the Open Camps that you would like to share, feel free to post to <a href="https://gitter.im/aminethedream/UniteForHumanity">Gitter</a>.
 
-Data Analysis Tools
-Programming Tools
-Datasets (OITC offered to provide data on request)
-Accessibility
-WebAIM: Web Accessibility in Mind - Website with a number of excellent resources and services around web accessibility many of which are highlighted in the Resources Page.
+Categories:
+
+<ul>
+<li>Data Analysis Tools</li>
+<li>Programming Tools</li>
+<li>Datasets (OITC offered to provide data on request)</li>
+<li>Accessibility</li>
+</ul>
+
+WebAIM: Web Accessibility in Mind - Website with a number of excellent resources and services around web accessibility
 
 
 <h3><a name="chat"></a>Chat & Social Media</h3>
