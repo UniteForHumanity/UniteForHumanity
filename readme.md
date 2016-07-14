@@ -133,7 +133,7 @@ Categories:
 
 <h3><a name="chat"></a>Chat & Social Media</h3>
 
-We set up an instance of Slack for use during the event and immediately hit invitation restrictions. We are now using Gitter: <<a href="https://gitter.im/aminethedream/UniteForHumanity">https://gitter.im/aminethedream/UniteForHumanity</a>. For those of you not familiar with Gitter, it’s a chatroom like Slack that allows group and 1-on-1 conversations. To use the event Gitter, just log in with your Github or Twitter credentials.
+We set up an instance of Slack for use during the event and immediately hit invitation restrictions. We are now using Gitter: <a href="https://gitter.im/aminethedream/UniteForHumanity">https://gitter.im/aminethedream/UniteForHumanity</a>. For those of you not familiar with Gitter, it’s a chatroom like Slack that allows group and 1-on-1 conversations. To use the event Gitter, just log in with your Github or Twitter credentials.
 
 The hashtag for our event is #uniteforhumanity. Please use it to tag your tweets, Instagrams & other posts related to the event!
 
