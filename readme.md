@@ -69,7 +69,6 @@ Humana Khan, Executive Director of Muflefun.org<br>
 Mubin Shaikh, Counterterrorism Expert
 Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention. Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
 
-
 Additional challenges from the following groups may be presented:
 
 DOable (climate change)<br>
@@ -82,18 +81,19 @@ Presenter Microsoft team
 Stem Volunteering Platform<br>
 Presenter from CSNYC or ScriptEd
 
+Our Kickoff attendees suggested ta number of potential projects to address these challenges. We have compiled a list of suggestions at <a href"https://public.etherpad-mozilla.org/p/Uniteforhumanity">https://public.etherpad-mozilla.org/p/Uniteforhumanity</a>. If any of these projects appeal to you, look for the team leader who suggested them.
 
 <b>Prompts</b>
 
 These are big challenges to tackle so we’ve borrowed some prompts from New York Public Library’s hack events to stimulate conversations and project ideas!
 
-Discover: What new experiences can we make around UN Sustainable Development Goals?<br>
-Find: How can we make it easier to search for information related to the SDGs?<br>
-Listen: What are some meaningful ways we can augment the experience of communicating needs within affected communities?<br>
-Share: How can we make it easier to share information and resources?<br>
-Learn: What can we learn from the UN SDG? How can what we build be used in an educational context?<br>
-Engage: How can we engage diverse and disperse communities in solving problems?<br>
-Access: How can we make available resources more usable for people with disabilities?
+<b>Discover</b>: What new experiences can we make around UN Sustainable Development Goals?<br>
+<b>Find</b>: How can we make it easier to search for information related to the SDGs?<br>
+<b>Listen</b>: What are some meaningful ways we can augment the experience of communicating needs within affected communities?<br>
+<b>Share</b>: How can we make it easier to share information and resources?<br>
+<b>Learn</b>: What can we learn from the UN SDG? How can what we build be used in an educational context?<br>
+<b>Engage</b>: How can we engage diverse and disperse communities in solving problems?<br>
+<b>Access</b>: How can we make available resources more usable for people with disabilities?
 
 
 <h3><a name="judging"></a>Judging Criteria and Prizes</h3>
