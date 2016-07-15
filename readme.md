@@ -70,7 +70,6 @@ DOable (climate change)<br>
 Presenter: Sonia Hamel from DOable<br>
 http://doable.org/
 
-
 Stem Volunteering Platform<br>
 Presenter from CSNYC or ScriptEd
 
@@ -116,6 +115,9 @@ We are gathering a list of tools and data we can use during the Hackathon. If yo
 Categories:
 
 <ul>
+<LI>Counter-Terrorism:
+<ul><LI><a href="https://www.facebook.com/RudawEnglish/videos/1027845527323350/">https://www.facebook.com/RudawEnglish/videos/1027845527323350/</a></LI>
+</ul></LI>
 <li>Data Analysis Tools</li>
 <li>Programming Tools</li>
 <li>Datasets (OITC offered to provide data on request)</li>
