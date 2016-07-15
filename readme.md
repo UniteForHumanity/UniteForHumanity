@@ -116,7 +116,8 @@ Categories:
 
 <ul>
 <LI>Counter-Terrorism:
-<ul><LI><a href="https://www.facebook.com/RudawEnglish/videos/1027845527323350/">https://www.facebook.com/RudawEnglish/videos/1027845527323350/</a></LI>
+<ul><a href="http://research.un.org/en/counter-terrorism">UN Counter-Terrorism: Quick Guide</a></LI>
+<LI><a href="https://www.facebook.com/RudawEnglish/videos/1027845527323350/">https://www.facebook.com/RudawEnglish/videos/1027845527323350/</a></LI>
 </ul></LI>
 <li>Data Analysis Tools</li>
 <li>Programming Tools</li>
