@@ -59,11 +59,6 @@ In order to foster a productive and welcoming environment for this hackathon, we
 
 Unite for Humanity is a two-day hackathon focused on the use of open source technologies to address humanitarian issues and pursue the UN's <a href="http://globalgoals.org/">GlobalGoals</a>. The Unite for Humanity Hackathon strives to create solutions to some of our worlds most pressing problems.
 
-Crowdsourcing Platform<br>
-Presenter: Radia Funna, OITC<br>
-Example site: <a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a><br>
-Unite Ideas is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
-
 Counter Terrorism Messaging<br>
 Humana Khan, Executive Director of Muflefun.org<br>
 Mubin Shaikh, Counterterrorism Expert
@@ -75,8 +70,6 @@ DOable (climate change)<br>
 Presenter: Sonia Hamel from DOable<br>
 http://doable.org/
 
-Civic Graph (http://civicgraph.io)<br>
-Presenter Microsoft team
 
 Stem Volunteering Platform<br>
 Presenter from CSNYC or ScriptEd
