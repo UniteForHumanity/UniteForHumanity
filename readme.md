@@ -116,7 +116,19 @@ Categories:
 
 <ul>
 <LI>Counter-Terrorism:
-<ul><a href="http://research.un.org/en/counter-terrorism">UN Counter-Terrorism: Quick Guide</a></LI>
+<ul><li>You can tweet your questions about the counter terrorism challenge to Humera Khan, Executive Director, Muflehun; @khanserai Or to Mubin Shaikh, Radicalization, Deradicalization & Countering Violent Extremism Expert; @MrMubinShaikh using the hashtag #Inspire4Peace</li>
+<li>UN Resources:<ul>
+<li><a href="http://research.un.org/en/un-resources">UN Resources</a></li>
+
+<li><a href="http://research.un.org/en/climate-change">Climate Change: A Global Issue</a></li>
+
+<li><a href="http://research.un.org/en/disaster">Disaster Prevention</a></li>
+
+<li><a href="http://research.un.org/en/docs/humanrights">Human Roghts</a></li>
+
+<li><a href="http://research.un.org/en/docs/peacekeeping">Peacekeeping</a></li>
+
+<li><a href="http://research.un.org/en/counter-terrorism">UN Counter-Terrorism: Quick Guide</a></LI></ul></li>
 <LI><a href="https://www.facebook.com/RudawEnglish/videos/1027845527323350/">https://www.facebook.com/RudawEnglish/videos/1027845527323350/</a></LI>
 </ul></LI>
 <li>Data Analysis Tools</li>
