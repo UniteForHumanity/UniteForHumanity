@@ -53,7 +53,7 @@ Sunday, July 17th<br>
 
 <h3><a name="conduct"></a>Open Camps Code of Conduct</h3>
 
-In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the <a href="Open Camps Code of Conduct</a> for the event.
+In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the <a href="http://opencamps.org/code-of-conduct.html">Open Camps Code of Conduct</a> for the event.
 
 <h3><a name="challenges"></a>Challenges</h3>
 
