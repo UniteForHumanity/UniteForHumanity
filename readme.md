@@ -64,6 +64,9 @@ Humana Khan, Executive Director of Muflefun.org<br>
 Mubin Shaikh, Counterterrorism Expert<br>
 Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention. Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
 
+Unite Ideas<br>
+Unite Ideas  (<a href="https://unite.un.org/ideas/">https://unite.un.org/ideas/</a>) is a crowd sourcing platform where the United Nations post challenges for the tech community. Devise a solution that will augment the platform functions (e.g. from a one way into a two way communication device. )
+
 Additional challenges from the following groups may be presented:
 
 DOable (climate change)<br>
