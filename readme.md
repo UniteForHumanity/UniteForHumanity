@@ -61,7 +61,7 @@ Unite for Humanity is a two-day hackathon focused on the use of open source tech
 
 Counter Terrorism Messaging<br>
 Humana Khan, Executive Director of Muflefun.org<br>
-Mubin Shaikh, Counterterrorism Expert
+Mubin Shaikh, Counterterrorism Expert<br>
 Create a solution that will sway potential sympathizers of ISIS or al-qaeda from joining the group. Focus on message and use of technology and innovation. Focus on intervention. Do NOT create anything that will disrupt, interdict or destroy their own messaging systems. 
 
 Additional challenges from the following groups may be presented:
