@@ -115,7 +115,7 @@ We are gathering a list of tools and data we can use during the Hackathon. If yo
 Categories:
 
 <ul>
-<li>UN Resources:<ul>
+<li>UN Research Guides:<ul>
 <li><a href="http://research.un.org/en/un-resources">UN Resources</a></li>
 
 <li><a href="http://research.un.org/en/climate-change">Climate Change: A Global Issue</a></li>
