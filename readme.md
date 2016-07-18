@@ -7,9 +7,11 @@ Welcome to the repo for Unite for Humanity, hosted at the United Nations, July 1
 
 <h3>Projects</h3>
 
-The organizing team is grateful for the group of talented and engaged community members who bring together a diverse and impressive set of skills to make this weekend a success. To read more about the projects and prototypes conceived during the event, please visit our Projects page after July 17.
+The organizing team is grateful for the group of talented and engaged community members who brought together a diverse and impressive set of skills to make this Hackathon a success. Congratulations to our winner, Blockfinity and Beyond! To read more about the projects and prototypes conceived during the event, please visit our Projects page after July 17. 
 
-A kickoff event was held Sunday July 10 with presentations on challenges we will address on July 16-17. Notes from that event are at <a href="https://public.etherpad-mozilla.org/p/Uniteforhumanity">https://public.etherpad-mozilla.org/p/Uniteforhumanity</a>.
+We want to recognize our participants! If you haven't submitted links or repos, send them to Info@uniteforhumanity.com, including names of team mates and a brief description of your project. It's a great thing to showcase on your CV.
+
+Notes from The kickoff event held Sunday July 10 with presentations on challenges are at <a href="https://public.etherpad-mozilla.org/p/Uniteforhumanity">https://public.etherpad-mozilla.org/p/Uniteforhumanity</a>.
 
 <h3>Table of Contents</h3>
 
