@@ -1,5 +1,15 @@
 Below is a list of projects that were submitted to the Unity for Humanity hackathon. Please check back as we add project information.
 
+<h3>WINNER: Project Scarlett</h3>
+
+#ProjectScarlett is a real-time, machine learning app prototype, applicable to any extremist group.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/comprock/27769989234/in/dateposted/" title="Sunday Keynotes &amp; Sessions - Open Camps 2016"><img src="https://c3.staticflickr.com/9/8555/27769989234_85f7fda2e6_z.jpg" width="640" height="424" alt="Sunday Keynotes &amp; Sessions - Open Camps 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Team Members: Mario Salazar, (please send me more names!)
+
+Repository: (please send me a link!)
+
 <h3>Intelligent-911</h3>
 
 Intelligent-911 is a smartphone app that allows intelligent and international 911 requests and incident reporting. The solution consists of two parts: The smartphone app and the control web site.
