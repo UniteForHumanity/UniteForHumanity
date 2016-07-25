@@ -1,6 +1,6 @@
 Below is a list of projects that were submitted to the Unity for Humanity hackathon. Please check back as we add project information.
 
-<h3>WINNER: Project Scarlett</h3>
+ Project Scarlett
 
 Project Scarlett is a real-time, machine learning app prototype, applicable to any extremist group.
 
