@@ -10,7 +10,9 @@ Project Scarlett is a real-time, machine learning app prototype, applicable to a
 
 Team Members: Mario Salazar, (please send me more names!)
 
-Repository: (please send me a link!)
+Repository: 
+
+UPDATE: <a href="https://www.myultima.com">Ultima Smart Systems</a> has secured two launch partner contracts under NDA with tier-one mobile device OEMs and will be launching a defense tech lab unit starting with components from Project Scarlett. Anyone seeking info should feel free to e-mail <a href="mailto:yangbo@athenatech.io">Yangbo Du</a>. Congratulations, Team!
 
 <h3>Intelligent-911</h3>
 
